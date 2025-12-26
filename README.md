@@ -1,43 +1,42 @@
-Hi, I'm Benjamin 👋
+<p align="center">
+  <img src="profile.jpg" width="180" style="border-radius:50%" alt="Foto de perfil - Benjamin Menis">
+</p>
 
-I'm a Web Developer specialized in creating clean, functional, and professional websites that help businesses establish a strong online presence.
+## 👋 ¡Hola! Soy Benjamin Menis
 
-I work mainly with entrepreneurs, freelancers, and small businesses, helping them turn their ideas into simple, effective, and user-friendly web solutions. My goal is to build websites that not only look good, but also work well and solve real problems.
+Soy **desarrollador web freelance** enfocado en crear soluciones claras, funcionales y orientadas a resultados.  
+Trabajo con emprendedores, negocios pequeños y personas que necesitan una **presencia online profesional**, cuidando tanto el diseño visual como la lógica interna del sistema.
 
-🛠 Tech Stack
+Me especializo en el desarrollo de **landing pages**, sitios web y aplicaciones web simples, pensadas para comunicar de forma efectiva, generar confianza y facilitar el crecimiento de cada proyecto.  
+Valoro el código limpio, la organización, la escalabilidad y una comunicación clara y constante con cada cliente.
 
-I work with modern and reliable technologies, including:
+Mi objetivo es transformar ideas en productos digitales funcionales, fáciles de mantener y alineados con las necesidades reales del negocio.
 
-HTML, CSS, JavaScript for responsive and interactive front-end development
+---
 
-Python (Flask) for back-end logic and dynamic web applications
+### 🛠️ Tecnologías que utilizo
 
-SQLite for lightweight and efficient databases
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Python, Flask  
+- **Base de datos:** SQLite  
+- **Control de versiones:** Git, GitHub  
+- **Despliegue:** Hosting web y publicación de proyectos
 
-💼 What I do
+---
 
-I offer a range of web development services, such as:
+### 💼 ¿En qué puedo ayudarte?
 
-Landing pages optimized to showcase products or services clearly
+- Desarrollo de **landing pages** claras y efectivas  
+- Sitios web institucionales y personales  
+- Aplicaciones web simples con backend en Python  
+- Optimización y mejoras sobre proyectos existentes  
+- Publicación y configuración básica en hosting
 
-Complete websites for small businesses and personal brands
+---
 
-Custom web solutions tailored to specific needs and workflows
+## 📬 Contacto
 
-🎯 Work approach
+- 📧 **Email:** [contacto.benjaminmenis@gmail.com]  
+- 💼 **Upwork:** [Ver perfil](https://www.upwork.com/freelancers/~01d72009f7025eb5fb)
 
-I believe good results come from a solid process. That’s why I focus on:
-
-Clear and honest communication throughout the project
-
-On-time delivery and realistic deadlines
-
-Clean, readable, and maintainable code
-
-Simple, functional, and intuitive design focused on usability
-
-📫 Contact
-
-Portfolio: coming soon
-
-Upwork: coming soon
+Siempre abierto a nuevos proyectos, colaboraciones y propuestas freelance.
