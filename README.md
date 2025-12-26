@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/profile.jpg" width="180" alt="Foto de perfil - Benjamin Menis" />
-</p>
-
 ## 👋 ¡Hola! Soy Benjamin Menis
 
 Soy **desarrollador web freelance** enfocado en crear soluciones claras, funcionales y orientadas a resultados.  
