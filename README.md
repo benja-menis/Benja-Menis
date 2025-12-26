@@ -26,7 +26,6 @@ Mi objetivo es transformar ideas en productos digitales funcionales, fáciles de
 - Sitios web institucionales y personales  
 - Aplicaciones web simples con backend en Python  
 - Optimización y mejoras sobre proyectos existentes  
-- Publicación y configuración básica en hosting
 
 ---
 
