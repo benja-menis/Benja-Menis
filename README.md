@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./0dcf974f-f0df-4c8e-803a-278a63003138.jpg" width="180" style="border-radius:50%" alt="Foto de perfil - Benjamin Menis">
+<img src="./profile.jpg" width="180" style="border-radius:50%" alt="Foto de perfil - Benjamin Menis">
 </p>
 
 ## 👋 ¡Hola! Soy Benjamin Menis
