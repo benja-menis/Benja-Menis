@@ -16,17 +16,33 @@ Mi objetivo es transformar ideas en productos digitales funcionales, fáciles de
 - **Backend:** Python, Flask  
 - **Base de datos:** SQLite  
 - **Control de versiones:** Git, GitHub  
-- **Despliegue:** Hosting web y publicación de proyectos
 
 ---
 
 ### 💼 ¿En qué puedo ayudarte?
 
-- Desarrollo de **landing pages** claras y efectivas  
-- Sitios web institucionales y personales  
-- Aplicaciones web simples con backend en Python  
-- Optimización y mejoras sobre proyectos existentes  
+- Ayudo a negocios, emprendedores y proyectos personales a tener una presencia online clara, profesional y funcional. , pensada para que los clientes entiendan qué ofrecés y puedan contactarte fácilmente.
 
+- Trabajo principalmente con páginas web simples y efectivas , enfocadas en mostrar información importante, generar confianza y facilitar el contacto.
+
+# # Servicios que ofrezco:
+
+- Páginas web y landing pages
+Sitios claros y modernos para mostrar tu negocio, servicios o productos, optimizados para verse bien en celulares y computadoras.
+
+- Sitios web institucionales y personales
+Páginas para marcas, profesionales o proyectos personales que necesitan una presencia online ordenada y confiable.
+
+- Formularios y sistemas simples
+Desarrollo formularios y sistemas básicos para recibir consultas, reservas o pedidos , listos para integrarse a un sistema más completo si el proyecto crece.
+
+- Soluciones web con lógica interna
+Proyectos que requieren guardar información, organizar datos o automatizar procesos simples, pensados ​​para necesidades reales del día a día.
+
+- Mejoras, ajustes y mantenimiento
+Optimización de páginas existentes, corrección de errores, mejoras visuales y ajustes de funcionamiento.
+
+Mi enfoque es crear soluciones simples, claras y funcionales , sin complicaciones innecesarias, adaptadas a lo que cada proyecto realmente necesita.
 ---
 
 ## 📬 Contacto
