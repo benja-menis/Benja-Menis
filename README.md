@@ -25,7 +25,7 @@ Mi objetivo es transformar ideas en productos digitales funcionales, fáciles de
 
 - Trabajo principalmente con páginas web simples y efectivas , enfocadas en mostrar información importante, generar confianza y facilitar el contacto.
 
-# # Servicios que ofrezco:
+### Servicios que ofrezco:
 
 - Páginas web y landing pages
 Sitios claros y modernos para mostrar tu negocio, servicios o productos, optimizados para verse bien en celulares y computadoras.
@@ -42,7 +42,7 @@ Proyectos que requieren guardar información, organizar datos o automatizar proc
 - Mejoras, ajustes y mantenimiento
 Optimización de páginas existentes, corrección de errores, mejoras visuales y ajustes de funcionamiento.
 
-Mi enfoque es crear soluciones simples, claras y funcionales , sin complicaciones innecesarias, adaptadas a lo que cada proyecto realmente necesita.
+## Mi enfoque es crear soluciones simples, claras y funcionales , sin complicaciones innecesarias, adaptadas a lo que cada proyecto realmente necesita.
 ---
 
 ## 📬 Contacto
