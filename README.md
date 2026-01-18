@@ -48,6 +48,9 @@ Optimización de páginas existentes, corrección de errores, mejoras visuales y
 ## 📬 Contacto
 
 - 📧 **Email:** [contacto.benjaminmenis@gmail.com]  
+<!--
 - 💼 **Upwork:** [Ver perfil](https://www.upwork.com/freelancers/~01d72009f7025eb5fb)
+- 💼 **Workana:** [Ver perfil](https://www.workana.com/freelancer/611ccaa8a811f01fe18c2eb03293c566)
+-->
 
 Siempre abierto a nuevos proyectos, colaboraciones y propuestas freelance.
